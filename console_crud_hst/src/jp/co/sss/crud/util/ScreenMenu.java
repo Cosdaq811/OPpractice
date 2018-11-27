@@ -1,6 +1,7 @@
 package jp.co.sss.crud.util;
 
 //	2018/11/27	gitの練習のため、一部メッセージ内容修正
+//	2018/11/27	branch追加
 
 public class ScreenMenu {
 
