@@ -5,7 +5,7 @@ package jp.co.sss.crud.util;
 
 public class ScreenMenu {
 
-	//	メインメニューの
+	//	メインメニューの表示
 	public void InputNum(){
 		System.out.println("ブンブン会社の社員管理システムです。");
 		System.out.print("メニューNUMBERを入力してください:");
