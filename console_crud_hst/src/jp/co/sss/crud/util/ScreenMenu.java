@@ -1,10 +1,11 @@
 package jp.co.sss.crud.util;
 
 //	2018/11/27	gitの練習のため、一部メッセージ内容修正
+//	2018/11/27	branch追加、Ｍｅｒｇｅ
 
 public class ScreenMenu {
 
-	//	メインメニューの
+	//	メインメニューの表示
 	public void InputNum(){
 		System.out.println("ブンブン会社の社員管理システムです。");
 		System.out.print("メニューNUMBERを入力してください:");
